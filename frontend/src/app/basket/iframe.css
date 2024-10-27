@@ -1,0 +1,11 @@
+#paytriframe{
+    height: 700px !important;
+    margin-top: 5rem !important;
+    margin-bottom: 5rem !important;
+}
+
+@media (max-width: 961px) {
+    #paytriframe{
+        height: 1200px !important;
+    }
+}
